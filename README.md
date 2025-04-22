@@ -1,4 +1,4 @@
-# Práctica 2 - Sistemas Operativos
+# Práctica 2 - Detección y Explotación de Vulnerabilidades en Sistemas Informáticos
 
 Este repositorio contiene el material correspondiente a la Práctica 2.
 
